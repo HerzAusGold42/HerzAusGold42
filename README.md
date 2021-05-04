@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @HerzAusGold42
 - 👀 I’m interested in C++ and Embedded Systems but also Dataanalytics
-- 🌱 I’m currently learning developing in JavaScript using node.js
+- 🌱 I’m currently learning developing in JavaScript using node.js 🙃🔫
